@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:quizzler/QuizzBrain.dart';
+import 'package:quizzler/quizz_brain.dart';
 
 void main() => runApp(Quizzler());
 
